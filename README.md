@@ -100,6 +100,9 @@
     </div>
     ```
 
+![Struct HTML](Media/struct_html.jpg)
+
+
 <p align="center"><h1 align="center"> ⭐ Текст ⭐ </h1></p>
 
 *   `<h1></h1>` - `<h6></h6>`: Заголовки разных уровней.
