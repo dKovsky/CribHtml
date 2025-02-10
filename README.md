@@ -101,7 +101,7 @@
     ```
 
 ![Struct HTML](Media/struct_html.jpg)
-
+![Struct 2 HTML](Media/struct2.png)
 
 <p align="center"><h1 align="center"> ⭐ Текст ⭐ </h1></p>
 
