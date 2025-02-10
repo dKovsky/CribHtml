@@ -29,6 +29,9 @@
 
 <p align="center"><h1 align="center"> ⭐ Структурные теги ⭐ </h1></p>
 
+![Struct HTML](Media/struct_html.jpg)
+![Struct 2 HTML](Media/struct2.png)
+
 *   `<header></header>`: Шапка сайта или раздела.
 
     ```html
@@ -100,9 +103,6 @@
     </div>
     ```
 
-![Struct HTML](Media/struct_html.jpg)
-![Struct 2 HTML](Media/struct2.png)
-
 <p align="center"><h1 align="center"> ⭐ Текст ⭐ </h1></p>
 
 *   `<h1></h1>` - `<h6></h6>`: Заголовки разных уровней.
@@ -162,9 +162,9 @@
 *   `<a></a>`: Ссылка (анкор).
 
     ```html
-    <a href="https://www.example.com">Ссылка на example.com</a>
+    <a href="https://sites.google.com/view/dvurechensky">Ссылка на example.com</a>
     ```
-<a href="https://www.example.com">Ссылка на example.com</a>
+<a href="https://sites.google.com/view/dvurechensky">Ссылка на example.com</a>
 
 <br>
 <hr style="border: 1px solid aqua;">
@@ -290,7 +290,7 @@ let x = 5;
 
     ```html
     <video width="320" height="240" controls>
-        <source src="movie.mp4" type="video/mp4">
+        <source src="Media/Pump.mp4" type="video/mp4">
         Ваш браузер не поддерживает тег video.
     </video>
     ```
@@ -308,7 +308,7 @@ let x = 5;
 
     ```html
     <audio controls>
-        <source src="audio.mp3" type="audio/mpeg">
+        <source src="Media/ambience_bar_ground_larger.wav" type="audio/mpeg">
         Ваш браузер не поддерживает тег audio.
     </audio>
     ```
