@@ -1,3 +1,5 @@
+<p align="center">✨Dvurechensky✨</p>
+
 ## 👥 Синтаксис HTML и Селекторы CSS 👥
 
 <p align="center"><h1 align="center"> ☀️ Базовая Структура HTML ☀️ </h1></p>
@@ -641,3 +643,6 @@ let x = 5;
 #content div p.highlight {
   font-size: 16px;
 }
+```
+
+<p align="center">✨Dvurechensky✨</p>
